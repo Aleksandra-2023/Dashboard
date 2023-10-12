@@ -1,2 +1,3 @@
 # Dashboard view only ui
 
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/a2/Documents/project/example%2520/%25D0%25A1%25D0%25BD%25D0%25B8%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D1%258D%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202023-10-12%2520%25D0%25B2%252010.23.14.png?version%253D1697096178758)
